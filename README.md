@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# THE ULTIMATE FABRIC MOD
 
 ## Setup
 
